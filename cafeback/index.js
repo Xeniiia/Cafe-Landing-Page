@@ -26,5 +26,3 @@ app.post('/books',(req,res)=>{
 
     res.status(200).json('server on')
 })
-
-//dima HOOOOOOY
